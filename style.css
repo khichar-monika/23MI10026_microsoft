@@ -675,21 +675,15 @@
    }
 
    .meet {
-     display: flex;
-     align-items: flex-start;
-     font-size: 29px;
-     font-weight: 500;
+   display:none;
    }
 
    .you {
-     display: flex;
-     align-items: flex-start;
+   display:none;
    }
 
    .this {
-     display: flex;
-     align-items: flex-start;
-     margin-top: 5px;
+     display: none;
    }
 
 
