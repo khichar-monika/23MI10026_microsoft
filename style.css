@@ -846,7 +846,7 @@
    }
  }
 
- @media sreen and (max-width: 976px) {
+ @media screen and (max-width: 976px) {
    .hamburger-menu {
      display: block !important;
    }
